@@ -2,7 +2,8 @@
 
 #### Please make sure to actually utilize the README. 
 
-#### As I learn GoLang, i'm writing some of my python tools in Go. You can find GoKnock (Go version of KnockKnock) [HERE](https://github.com/waffl3ss/GoKnock) 
+#### As I learn GoLang, i'm writing some of my python tools in Go. You can find GoKnock (Go version of KnockKnock) [HERE](https://github.com/waffl3ss/GoKnock)
+#### (Meaning this one wont get updates anymore, and will go to archived status eventually)
 ------------------------------------------------------------------------------------
 Designed to validate potential usernames by querying OneDrive and/or Microsoft Teams, which are passive methods.  
 It can output/create a list of legacy Skype users identified through Microsoft Teams enumeration.
